@@ -1,1 +1,0 @@
-<h2>Tentang Kami</h2>
